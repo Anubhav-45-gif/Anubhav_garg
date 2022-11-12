@@ -1,0 +1,6 @@
+# cnihackathon22
+
+team members:
+
+1. ANUBHAV GARG / CSE / 201000007
+2. DIVYANSHU PARGANIHA / CSE / 201000014
